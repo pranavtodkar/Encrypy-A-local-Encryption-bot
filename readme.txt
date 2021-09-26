@@ -4,7 +4,7 @@ Encrypy Bot®
 v1.0
 10 July 2021
 
-Team: Pranav Todkar (2006331) , Anikate Kumar (2003103) , Diya Bhagat (2006345)
+Team: Pranav Todkar, Anikate Kumar, Diya Bhagat
 
 Project files:
 1. main_code.py - Double-click the "main_code.py" file to start encrypting. (main file)
