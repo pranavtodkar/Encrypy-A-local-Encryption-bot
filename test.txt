@@ -1,0 +1,35 @@
+Team De-coders
+
+**********************CONFIDENTIAL**********************
+
+Secure all the passwords:
+
+1) GMail:
+-------------------------------------------
+Username: you@gmail.com
+Password: pass$24/7
+
+2) Yahoo:
+-------------------------------------------
+Username: you@yahoo.com
+Password: hi$24/7
+
+3) Git:
+-------------------------------------------
+Username: you_on_git@yahoo.com
+Password: git101
+
+4) CodeChef:
+-------------------------------------------
+Username: you_on_cc@yahoo.com
+Password: cc%101
+
+5) HackerRank:
+-------------------------------------------
+Username: you_on_hR@yahoo.com
+Password: Hr=007
+
+6) CodeForces:
+-------------------------------------------
+Username: you_on_cF@yahoo.com
+Password: cF365
